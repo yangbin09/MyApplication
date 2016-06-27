@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void iniv() {
         String a="2";
+        int b=3;
     }
 }
